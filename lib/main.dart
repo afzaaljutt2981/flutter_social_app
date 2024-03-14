@@ -16,4 +16,4 @@ class MainApp extends StatelessWidget {
       theme: ThemeData(textTheme: GoogleFonts.poppinsTextTheme())
       ,home: const Chats());
   }
-}
+} 
