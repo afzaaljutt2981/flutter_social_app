@@ -1,0 +1,4 @@
+#Thu Mar 14 15:13:32 PKT 2024
+base.0=/Users/mac/Downloads/Chat-app-story-scroll-animation-main/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

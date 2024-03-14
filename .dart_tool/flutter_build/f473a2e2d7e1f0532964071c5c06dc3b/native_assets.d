@@ -1,0 +1,1 @@
+ /Users/mac/Downloads/Chat-app-story-scroll-animation-main/.dart_tool/flutter_build/f473a2e2d7e1f0532964071c5c06dc3b/native_assets.yaml: 

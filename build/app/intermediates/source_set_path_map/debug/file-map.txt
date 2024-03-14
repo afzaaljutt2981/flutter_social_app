@@ -1,0 +1,13 @@
+com.example.telegram_story_scroll_animation.app-jetified-window-java-1.0.0-beta04-0 /Users/mac/.gradle/caches/transforms-3/19ff66f031cb422764b0da25d9d6bdb4/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.telegram_story_scroll_animation.app-jetified-annotation-experimental-1.1.0-1 /Users/mac/.gradle/caches/transforms-3/55b58230e55ac19e11de59e32a6117b3/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.telegram_story_scroll_animation.app-core-1.6.0-2 /Users/mac/.gradle/caches/transforms-3/bbbbd632898af927049fa4f571ee9e7e/transformed/core-1.6.0/res
+com.example.telegram_story_scroll_animation.app-jetified-window-1.0.0-beta04-3 /Users/mac/.gradle/caches/transforms-3/d97cf3ffa6f05f8e8de8b41da1cca67f/transformed/jetified-window-1.0.0-beta04/res
+com.example.telegram_story_scroll_animation.app-debug-4 /Users/mac/Downloads/Chat-app-story-scroll-animation-main/android/app/src/debug/res
+com.example.telegram_story_scroll_animation.app-main-5 /Users/mac/Downloads/Chat-app-story-scroll-animation-main/android/app/src/main/res
+com.example.telegram_story_scroll_animation.app-pngs-6 /Users/mac/Downloads/Chat-app-story-scroll-animation-main/build/app/generated/res/pngs/debug
+com.example.telegram_story_scroll_animation.app-resValues-7 /Users/mac/Downloads/Chat-app-story-scroll-animation-main/build/app/generated/res/resValues/debug
+com.example.telegram_story_scroll_animation.app-rs-8 /Users/mac/Downloads/Chat-app-story-scroll-animation-main/build/app/generated/res/rs/debug
+com.example.telegram_story_scroll_animation.app-mergeDebugResources-9 /Users/mac/Downloads/Chat-app-story-scroll-animation-main/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.telegram_story_scroll_animation.app-mergeDebugResources-10 /Users/mac/Downloads/Chat-app-story-scroll-animation-main/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.telegram_story_scroll_animation.app-merged_res-11 /Users/mac/Downloads/Chat-app-story-scroll-animation-main/build/app/intermediates/merged_res/debug
+com.example.telegram_story_scroll_animation.app-packaged_res-12 /Users/mac/Downloads/Chat-app-story-scroll-animation-main/build/path_provider_android/intermediates/packaged_res/debug
